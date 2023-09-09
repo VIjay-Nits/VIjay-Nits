@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @VIjay-Nits
-- 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...vijaygupta131999@gmail.com
 
